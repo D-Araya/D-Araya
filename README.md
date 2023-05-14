@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **building up my Github profile with data science projects**
 
-- 🌱 I’m currently learning [studying the certified tech developed career in digital house](https://www.digitalhouse.com/productos/programacion/certified-tech-developer)
+- 👯 I recently finished [the Data Science Bootcamp at Talento Digital](https://talentodigitalparachile.cl/curso/analisis-de-datos-3/)
+
+- 🌱 I’m currently learning [studying the Certified Tech Developed career in Digital House](https://www.digitalhouse.com/productos/programacion/certified-tech-developer)
 
 - 👨‍💻 All of my projects are available at [https://github.com/D-Araya](https://github.com/D-Araya)
 
