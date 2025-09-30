@@ -1,24 +1,72 @@
-<h1 align="center">Hi 👋, I'm Daniel Araya</h1>
-<h3 align="center">I am a technology enthusiast and I am looking for a job in data science</h3>
+<h1 align="center">Hola 👋, soy Daniel Araya</h1>
+<h3 align="center">Científico de Datos | Machine Learning Engineer | Enfoque en MLOps y la Ingeniería de Datos.</h3>
 
-- 🔭 I’m currently working on **building up my Github profile with data science projects**
-
-- 👯 I recently finished [the Data Science Bootcamp at Talento Digital](https://talentodigitalparachile.cl/curso/analisis-de-datos-3/)
-
-- 🌱 I’m currently learning [studying the fundamentals of DevOps Bootcamp at Talento Digital](https://talentodigitalparachile.cl/curso/fundamentos-de-devops/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/D-Araya](https://github.com/D-Araya)
-
-- 💬 Ask me about **ancient medicinal plants of South America**
-
-- 📫 How to reach me **email me or connect on LinkedIn**
-
-- ⚡ Fun fact **I like to connect with nature and enjoy singing to it, thanking the existence**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-araya-rocha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-araya-rocha/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/daniel-araya-rocha/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn de Daniel Araya" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 Mi Perfil y Desarrollo Profesional
+
+- 🔭 **Actualmente** construyendo proyectos de Data Science enfocados en **Procesamiento de Lenguaje Natural (NLP)** y **Modelos de Series de Tiempo**.
+- ✅ **Certificado** en **Data Science**, **Machine Learning Engineering**, y **Fundamentos de DevOps** (Talento Digital).
+- 🌱 **Aprendiendo** activamente sobre **MLOps** y despliegue de modelos con **Docker** y **Kubernetes** para pipelines robustos.
+- 💼 **Buscando** activamente mi primera oportunidad laboral como Data Scientist o ML Engineer.
+
+---
+
+### 🛠️ Habilidades Clave (Data Science, ML & DevOps)
+
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
+  </a> 
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> 
+  </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
+  </a>
+</p>
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=D-Araya&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Daniel Araya GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Araya&layout=compact&langs_count=6&theme=vue&hide_border=true" alt="Lenguajes más usados" />
+</div>
+
+---
+
+### ✉️ Contáctame
+
+- 💻 Todos mis proyectos están disponibles en [https://github.com/D-Araya](https://github.com/D-Araya)
+- 📫 **Cómo contactarme:** Envíame un email o conéctate a través de LinkedIn.
+- 💬 **Interés único:** Pregúntame sobre **plantas medicinales ancestrales de Sudamérica**.
+- ⚡ **Dato curioso:** Me gusta mucho conectar con la naturaleza y disfrutar cantándole, agradeciendo la existencia.
