@@ -1,67 +1,167 @@
-<h1 align="center">Hola 👋, soy Daniel Araya</h1>
-<h3 align="center">Científico de Datos | Machine Learning Engineer | Enfoque en MLOps y la Ingeniería de Datos.</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/daniel-araya-rocha/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn de Daniel Araya" height="30" width="40" />
-  </a>
-</p>
+# 👋 ¡Hola! Soy Daniel Araya
+
+> **Data Scientist | Machine Learning Engineer | MLOps Enthusiast**
+> 
+> Magíster en Ingeniería Biomédica | Transformando datos en soluciones inteligentes
 
 ---
 
-### 🚀 Mi Perfil y Desarrollo Profesional
+## 🎯 Sobre Mí
 
-- 🔭 **Actualmente** construyendo proyectos de Data Science enfocados en **Procesamiento de Lenguaje Natural (NLP)** y **Modelos de Series de Tiempo**.
-- ✅ **Certificado** en **Data Science**, **Machine Learning Engineering**, y **Fundamentos de DevOps** (Talento Digital).
-- 🌱 **Aprendiendo** activamente sobre **MLOps** y despliegue de modelos con **Docker** y **Kubernetes** para pipelines robustos.
-- 💼 **Buscando** activamente mi primera oportunidad laboral como Data Scientist o ML Engineer.
+Soy un profesional multidisciplinario con **sólida formación académica** (Magíster en Ingeniería Biomédica) y **actualización técnica en tecnologías de punta** a través de bootcamps intensivos. Mi carrera transita desde la kinesiología hacia la ingeniería de datos y machine learning, llevando conmigo una mentalidad científica, rigor investigativo y pasión por resolver problemas complejos.
 
----
+Actualmente busco **mi primera oportunidad laboral como Data Scientist o ML Engineer**, donde pueda aplicar mis conocimientos en procesamiento de lenguaje natural, modelos de series de tiempo y despliegue de soluciones en producción.
 
-### 🛠️ Habilidades Clave (Data Science, ML & DevOps)
-
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
-  </a>
-</p>
+**Ubicación:** Puerto Montt, Los Lagos, Chile 🇨🇱
 
 ---
 
-### 📈 Estadísticas de GitHub
+## 💼 Formación & Certificaciones
+
+| 📚 Estudio | 🏫 Institución | 📅 Período | ⭐ Destacado |
+|-----------|---------------|----------|-----------|
+| **Magíster en Ingeniería Biomédica** | Universidad de Valparaíso | 2013-2018 | Distinción Máxima |
+| **Bootcamp ML Engineering** | Talento Digital para Chile | Jun-Oct 2025 | En curso |
+| **Bootcamp DevOps** | Talento Digital para Chile | Ago-Nov 2024 | ✅ Completado |
+| **Bootcamp Data Science** | Talento Digital para Chile | Abr-Jun 2023 | ✅ Completado |
+| **Licenciado en Kinesiología** | Universidad de Tarapacá | 2007-2011 | Distinción |
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### 🐍 Data Science & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+### 🚀 MLOps & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+### 🌐 Backend & Bases de Datos
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🎯 Metodologías
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-4B8BBE?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## 🎓 Áreas de Especialización
+
+- **Procesamiento de Lenguaje Natural (NLP):** Análisis de textos, modelos de clasificación, embeddings
+- **Series de Tiempo:** Forecasting, ARIMA, Prophet, análisis de tendencias
+- **MLOps:** Automatización de pipelines, versionado de modelos, despliegue en producción
+- **Ingeniería de Datos:** ETL, procesamiento distribuido, pipelines robustos
+- **Deep Learning:** Fundamentos de redes neuronales, computación científica
+
+---
+
+## 🔬 Experiencia en Investigación
+
+### 📖 Artículo Publicado en SIPAIM 2022
+**"Movements acquisition based on the Archimedean Spiral Test using Leap Motion Controller"**
+- Publicado en SPIE Digital Library (indexado en Scopus)
+- [Acceder al artículo](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2669906?SSO=1)
+- Procesamiento de señales biomédicas y análisis de movimiento
+
+### 🎓 Tesis de Magíster
+**"Evaluación del Leap Motion Controller en la adquisición de movimientos basados en el Test de Espiral de Arquímedes"**
+- [Repositorio con código](https://github.com/D-Araya/Tesis-Magister-Ing-Biomedica)
+- Python, procesamiento de imágenes, análisis biomecánico
+
+### 🏥 Investigación en Imagenología Médica
+**"Biomedical Imaging in obesity: from cellular mechanisms to clinical applications"** (ANILLO ACT79)
+- Procesamiento de imágenes de resonancia en difusión
+- Análisis de hígado graso
+
+---
+
+## 💪 Fortalezas
+
+✅ **Formación académica sólida** con énfasis en computación científica  
+✅ **Aprendizaje autónomo** y capacidad para dominar tecnologías nuevas rápidamente  
+✅ **Mentalidad investigativa** que aporta rigor a los proyectos  
+✅ **Colaboración efectiva** con experiencia en trabajo en equipo y metodologías ágiles  
+✅ **Orientación a la mejora continua** - "nunca parar de aprender"  
+✅ **Experiencia multidisciplinaria** que aporta perspectiva única a los desafíos  
+
+---
+
+## 📊 GitHub Stats
+
+[![Daniel Araya GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-Araya&show_icons=true&theme=vue&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=16c784&text_color=eaeaea)](https://github.com/D-Araya)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Araya&layout=compact&langs_count=8&theme=vue&hide_border=true&bg_color=1a1a2e&title_color=16c784&text_color=eaeaea)](https://github.com/D-Araya)
+
+---
+
+## 🌱 Actualmente Aprendiendo
+
+- 🔄 **MLOps avanzado:** Orquestación con Airflow, monitoreo de modelos en producción
+- 📈 **Series de tiempo complejas:** LSTM, GRU, técnicas de ensamble
+- 🗣️ **NLP avanzado:** Transformers, fine-tuning de LLMs, RAG
+- ☸️ **Kubernetes:** Orquestación de contenedores a escala
+
+---
+
+## 🎁 Intereses Personales
+
+🌿 **Plantas medicinales ancestrales de Sudamérica** - Mi pasión única por la etnobotánica y el conocimiento tradicional  
+💚 **Conexión con la naturaleza** - Meditación, gratitud y cuidado ambiental  
+🏀 **Deporte & Bienestar** - Calistenia, musculación, estiramientos como práctica de mindfulness  
+👨‍👦 **Familia** - Padre de un hijo de 12 años, disfruto de su desarrollo y aprendizaje
+
+---
+
+## 📫 Conectemos
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D-Araya&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Daniel Araya GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Araya&layout=compact&langs_count=6&theme=vue&hide_border=true" alt="Lenguajes más usados" />
+
+| Canal | Link |
+|-------|------|
+| **LinkedIn** | [linkedin.com/in/daniel-araya-rocha](https://linkedin.com/in/daniel-araya-rocha/) |
+| **GitHub** | [github.com/D-Araya](https://github.com/D-Araya) |
+| **Email** | [daniel.araya.rocha@gmail.com](mailto:daniel.araya.rocha@gmail.com) |
+| **Teléfono** | +56 9 56487926 |
+
 </div>
 
+---
+
+## 🚀 ¿Buscas colaboración?
+
+Estoy **activamente disponible para:**
+- 💼 Posiciones como **Data Scientist** o **ML Engineer**
+- 🤝 Proyectos colaborativos en **NLP** y **Series de Tiempo**
+- 📚 Mentorías y compartir conocimiento con la comunidad tech
+- 🔧 Contribuciones open source relacionadas con **MLOps**
+
+**¡No dudes en contactarme!** 👋
+
+---
+
+<div align="center">
+
+### "El aprendizaje continuo es la clave del crecimiento"
+
+⭐ Si te interesa mi trabajo, considera dejar una estrella en mis repositorios  
+🔔 Sígueme para ver mis últimos proyectos de Data Science & MLOps
+
+</div>
 ---
 
 ### ✉️ Contáctame
