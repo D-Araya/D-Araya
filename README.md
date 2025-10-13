@@ -125,7 +125,7 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 ### 🎓 Tesis de Magíster
 **"Evaluación del Leap Motion Controller en la adquisición de movimientos basados en el Test de Espiral de Arquímedes"**
 - [Repositorio con código](https://github.com/D-Araya/Tesis-Magister-Ing-Biomedica)
-- Python, procesamiento de imágenes, análisis biomecánico
+- Python, procesamiento de señales biomédicas, análisis biomecánico
 
 ### 🏥 Investigación en Imagenología Médica
 **"Biomedical Imaging in obesity: from cellular mechanisms to clinical applications"** (ANILLO ACT79)
