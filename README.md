@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Daniel Araya
 
-> **Data Scientist | Machine Learning Engineer | MLOps Enthusiast**
+> **Data Scientist | Machine Learning Engineer | MLOps Enthusiast | DevOps**
 > 
 > Magíster en Ingeniería Biomédica | Transformando datos en soluciones inteligentes
 
@@ -10,9 +10,9 @@
 
 Soy un profesional multidisciplinario con **sólida formación académica** (Magíster en Ingeniería Biomédica) y **actualización técnica en tecnologías de punta** a través de bootcamps intensivos. Mi carrera transita desde la kinesiología hacia la ingeniería de datos y machine learning, llevando conmigo una mentalidad científica, rigor investigativo y pasión por resolver problemas complejos.
 
-Actualmente busco **mi primera oportunidad laboral como Data Scientist o ML Engineer**, donde pueda aplicar mis conocimientos en procesamiento de lenguaje natural, modelos de series de tiempo y despliegue de soluciones en producción.
+Actualmente busco **mi primera oportunidad laboral como Data Scientist, ML Engineer o DevOps**, donde pueda aplicar mis conocimientos en procesamiento de lenguaje natural, procesamiento de señales biomédicas y despliegue de soluciones en producción.
 
-**Ubicación:** Puerto Montt, Los Lagos, Chile 🇨🇱
+**Ubicación:** Llanquihue, Los Lagos, Chile 🇨🇱
 
 ---
 
@@ -65,10 +65,10 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 
 | 📚 Estudio | 🏫 Institución | 📅 Período | ⭐ Destacado |
 |-----------|---------------|----------|-----------|
-| **Magíster en Ingeniería Biomédica** | Universidad de Valparaíso | 2013-2018 | Distinción Máxima |
-| **Bootcamp ML Engineering** | Talento Digital para Chile | Jun-Oct 2025 | En curso |
+| **Bootcamp Machine Learning** | Talento Digital para Chile | Jun-Oct 2025 | ✅ Completado |
 | **Bootcamp DevOps** | Talento Digital para Chile | Ago-Nov 2024 | ✅ Completado |
 | **Bootcamp Data Science** | Talento Digital para Chile | Abr-Jun 2023 | ✅ Completado |
+| **Magíster en Ingeniería Biomédica** | Universidad de Valparaíso | 2013-2018 | Distinción Máxima |
 | **Licenciado en Kinesiología** | Universidad de Tarapacá | 2007-2011 | Distinción |
 
 ---
@@ -107,10 +107,10 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 ## 🎓 Áreas de Especialización
 
 - **Procesamiento de Lenguaje Natural (NLP):** Análisis de textos, modelos de clasificación, embeddings
-- **Series de Tiempo:** Forecasting, ARIMA, Prophet, análisis de tendencias
+- **Deep Learning:** Redes neuronales avanzadas, computación científica
 - **MLOps:** Automatización de pipelines, versionado de modelos, despliegue en producción
-- **Ingeniería de Datos:** ETL, procesamiento distribuido, pipelines robustos
-- **Deep Learning:** Fundamentos de redes neuronales, computación científica
+<!-- - **Series de Tiempo:** Forecasting, ARIMA, Prophet, análisis de tendencias
+- **Ingeniería de Datos:** ETL, pipelines robustos -->
 
 ---
 
@@ -119,7 +119,7 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 ### 📖 Artículo Publicado en SIPAIM 2022
 **"Movements acquisition based on the Archimedean Spiral Test using Leap Motion Controller"**
 - Publicado en SPIE Digital Library (indexado en Scopus)
-- [Acceder al artículo](https://spie.org/Publications/Proceedings/Paper/10.1117/12.2669906?SSO=1)
+- [Acceder al artículo](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12567/2669906/Movements-acquisition-based-on-the-Archimedean-spiral-test-using-leap/10.1117/12.2669906.short)
 - Procesamiento de señales biomédicas y análisis de movimiento
 
 ### 🎓 Tesis de Magíster
@@ -155,19 +155,18 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 
 ## 🌱 Actualmente Aprendiendo
 
-- 🔄 **MLOps avanzado:** Orquestación con Airflow, monitoreo de modelos en producción
-- 📈 **Series de tiempo complejas:** LSTM, GRU, técnicas de ensamble
-- 🗣️ **NLP avanzado:** Transformers, fine-tuning de LLMs, RAG
+- 🔄 **MLOps:** MLflow, Despliegue modelos en producción
+<!-- - 📈 **Series de tiempo complejas:** LSTM, GRU, técnicas de ensamble -->
+- 🗣️ **NLP avanzado:** Transformers, RAG
 - ☸️ **Kubernetes:** Orquestación de contenedores a escala
 
 ---
 
 ## 🎁 Intereses Personales
-
-🌿 **Plantas medicinales ancestrales de Sudamérica** - Mi pasión única por la etnobotánica y el conocimiento tradicional  
+  
 💚 **Conexión con la naturaleza** - Meditación, gratitud y cuidado ambiental  
 🏀 **Deporte & Bienestar** - Calistenia, musculación, estiramientos como práctica de mindfulness  
-👨‍👦 **Familia** - Padre de un hijo de 12 años, disfruto de su desarrollo y aprendizaje
+👨‍👦 **Familia** - Padre de un hijo de 14 años y uno de 8 meses, disfruto de su desarrollo y aprendizaje
 
 ---
 
@@ -180,7 +179,7 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 | **LinkedIn** | [linkedin.com/in/daniel-araya-rocha](https://linkedin.com/in/daniel-araya-rocha/) |
 | **GitHub** | [github.com/D-Araya](https://github.com/D-Araya) |
 | **Email** | [daniel.araya.rocha@gmail.com](mailto:daniel.araya.rocha@gmail.com) |
-| **Teléfono** | +56 9 56487926 |
+<!-- | **Teléfono** | +56 9 56487926 |  -->
 
 </div>
 
@@ -189,10 +188,12 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 ## 🚀 ¿Buscas colaboración?
 
 Estoy **activamente disponible para:**
-- 💼 Posiciones como **Data Scientist** o **ML Engineer**
-- 🤝 Proyectos colaborativos en **NLP** y **Series de Tiempo**
-- 📚 Mentorías y compartir conocimiento con la comunidad tech
-- 🔧 Contribuciones open source relacionadas con **MLOps**
+- 💼 Posiciones como **Data Scientist**, **ML Engineer** o **DevOps**
+- 🤝 Proyectos colaborativos en **Sistemas de Recomendación**
+
+<!-- **NLP**  y **Series de Tiempo** -->
+<!-- - 📚 Mentorías y compartir conocimiento con la comunidad tech  -->
+<!-- - 🔧 Contribuciones open source relacionadas con **MLOps** -->
 
 **¡No dudes en contactarme!** 👋
 
