@@ -1,4 +1,3 @@
-
 # 👋 ¡Hola! Soy Daniel Araya
 
 > **Data Scientist | Machine Learning Engineer | MLOps Enthusiast**
@@ -14,6 +13,51 @@ Soy un profesional multidisciplinario con **sólida formación académica** (Mag
 Actualmente busco **mi primera oportunidad laboral como Data Scientist o ML Engineer**, donde pueda aplicar mis conocimientos en procesamiento de lenguaje natural, modelos de series de tiempo y despliegue de soluciones en producción.
 
 **Ubicación:** Puerto Montt, Los Lagos, Chile 🇨🇱
+
+---
+
+## 🔄 De Kinesiología a Data Science & MLOps: Mi Transición
+
+Mi carrera representa una **reconversión profesional estratégica**, no un abandono de mis raíces. Cada experiencia previa es un activo en tech:
+
+### 🏥 Kinesiología → 📊 Data Science
+
+| Experiencia en Salud | Aplicación en Tech | 💡 Valor Agregado |
+|---------------------|------------------|-------------------|
+| **Diagnóstico y evaluación funcional** | Análisis exploratorio de datos (EDA) | Capacidad para "diagnosticar" problemas en datos, identificar patrones ocultos |
+| **Protocolos de rehabilitación personalizados** | Machine Learning supervisado | Entiendo modelado predictivo y cómo adaptar soluciones a casos específicos |
+| **Seguimiento de progreso del paciente** | Series de tiempo y forecasting | Experiencia interpretando evoluciones, tendencias y anomalías |
+| **Biomecánica y movimiento humano** | Computer vision y procesamiento de señales | Aplicación práctica en análisis de movimiento (mi tesis de magíster) |
+| **Comunicación con pacientes complejos** | Data storytelling y comunicación técnica | Capacidad de explicar conceptos complejos de forma clara |
+| **Trabajo bajo presión** | Resolución de problemas en producción | Experiencia en situaciones de alta demanda y responsabilidad |
+
+### 🎓 Profesor Universitario → 🚀 Engineer & Mentor
+
+| Mi Rol como Docente | Transferencia a Tech | 🎯 Beneficio |
+|-------------------|-------------------|------------|
+| **Diseño de currículo** | Arquitectura de sistemas y pipelines ML | Visión estructurada para descomponer problemas complejos |
+| **Enseñanza de biomecánica** | Documentación técnica y explicación de conceptos | Capacidad para documentar soluciones y crear contenido educativo |
+| **Evaluación y retroalimentación** | Code review y quality assurance | Ojo crítico para identificar mejoras y estándares de calidad |
+| **Mentoría de estudiantes** | Pair programming y onboarding de juniors | Habilidad para guiar, enseñar y transferir conocimiento |
+| **Metodología ágil (Scrum)** | Metodologías de desarrollo de software | Experiencia colaborativa aplicable a equipos multidisciplinarios |
+| **Investigación aplicada** | Machine Learning en problemas reales | Mi tesis publicada prueba capacidad de investigación rigurosa |
+
+### 🧠 Mindset que Traigo desde la Salud
+
+✅ **Precisión y responsabilidad:** En salud un error tiene consecuencias reales → en tech, el mismo rigor asegura robustez  
+✅ **Enfoque centrado en el usuario:** Diseñar tratamientos pensando en el paciente → diseñar modelos pensando en el usuario final  
+✅ **Adaptación continua:** Los protocolos evolucionan según evidencia → los modelos evolucionan con nuevos datos  
+✅ **Trabajo bajo presión:** Emergencias médicas → urgencias en producción  
+✅ **Empatía y comunicación:** Entiendo diferentes perspectivas → mejor colaboración en equipos diversos  
+
+### 🎯 Por Qué Esta Transición Me Hace Diferente
+
+No soy solo otro Data Scientist junior. Soy alguien que:
+- ✨ Trae **madurez profesional** y **experiencia investigativa** (Magíster, artículo publicado)
+- 🔬 Entiende **metodología científica** aplicable a validación de modelos
+- 👥 Tiene **experiencia liderando y enseñando** (no solo ejecutando)
+- 💡 Piensa en **impacto real** de las soluciones (mentalidad de salud)
+- 🚀 Es **altamente motivado** porque eligió esta carrera conscientemente
 
 ---
 
@@ -162,11 +206,3 @@ Estoy **activamente disponible para:**
 🔔 Sígueme para ver mis últimos proyectos de Data Science & MLOps
 
 </div>
----
-
-### ✉️ Contáctame
-
-- 💻 Todos mis proyectos están disponibles en [https://github.com/D-Araya](https://github.com/D-Araya)
-- 📫 **Cómo contactarme:** Envíame un email o conéctate a través de LinkedIn.
-- 💬 **Interés único:** Pregúntame sobre **plantas medicinales ancestrales de Sudamérica**.
-- ⚡ **Dato curioso:** Me gusta mucho conectar con la naturaleza y disfrutar cantándole, agradeciendo la existencia.
