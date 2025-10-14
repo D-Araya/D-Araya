@@ -156,9 +156,9 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 ## 🌱 Actualmente Aprendiendo
 
 - 🔄 **MLOps:** MLflow, Despliegue modelos en producción
-<!-- - 📈 **Series de tiempo complejas:** LSTM, GRU, técnicas de ensamble -->
 - 🗣️ **NLP avanzado:** Transformers, RAG
 - ☸️ **Kubernetes:** Orquestación de contenedores a escala
+<!-- - 📈 **Series de tiempo complejas:** LSTM, GRU, técnicas de ensamble -->
 
 ---
 
