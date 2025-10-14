@@ -108,7 +108,7 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 
 - **Procesamiento de Lenguaje Natural (NLP):** Análisis de textos, modelos de clasificación, embeddings
 - **Deep Learning:** Redes neuronales avanzadas, computación científica
-- **MLOps:** Automatización de pipelines, versionado de modelos, despliegue en producción
+- **MLOps:** Automatización de pipelines, despliegue en producción
 <!-- - **Series de Tiempo:** Forecasting, ARIMA, Prophet, análisis de tendencias
 - **Ingeniería de Datos:** ETL, pipelines robustos -->
 
