@@ -10,7 +10,7 @@
 
 Soy un profesional multidisciplinario con **sólida formación académica** (Magíster en Ingeniería Biomédica) y **actualización técnica en tecnologías de punta** a través de bootcamps intensivos. Mi carrera transita desde la kinesiología hacia la ingeniería de datos y machine learning, llevando conmigo una mentalidad científica, rigor investigativo y pasión por resolver problemas complejos.
 
-Actualmente busco **mi primera oportunidad laboral como Data Scientist, ML Engineer o DevOps**, donde pueda aplicar mis conocimientos en procesamiento de lenguaje natural, procesamiento de señales biomédicas y despliegue de soluciones en producción.
+Actualmente busco **mi primera oportunidad laboral como Data Scientist, ML Engineer o DevOps**, donde pueda aplicar mis conocimientos en el ciclo de desarrollo de machine learning y despliegue de soluciones en producción.
 
 **Ubicación:** Llanquihue, Los Lagos, Chile 🇨🇱
 
