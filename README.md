@@ -8,7 +8,7 @@
 
 ## 🎯 Sobre Mí
 
-Soy un profesional multidisciplinario con **sólida formación académica** (Magíster en Ingeniería Biomédica) y **actualización técnica en tecnologías de punta** a través de bootcamps intensivos. Mi carrera transita desde la kinesiología hacia la ingeniería de datos y machine learning, llevando conmigo una mentalidad científica, rigor investigativo y pasión por resolver problemas complejos.
+Soy un profesional multidisciplinario con **sólida formación académica** (Magíster en Ingeniería Biomédica) y **actualización técnica en tecnologías de punta** a través de bootcamps intensivos. Mi carrera transita desde la kinesiología hacia el machine learning y devops, llevando conmigo una mentalidad científica, rigor investigativo y pasión por resolver problemas complejos.
 
 Actualmente busco **mi primera oportunidad laboral como Data Scientist, ML Engineer o DevOps**, donde pueda aplicar mis conocimientos en el ciclo de desarrollo de machine learning y despliegue de soluciones en producción.
 
@@ -31,16 +31,16 @@ Mi carrera representa una **reconversión profesional estratégica**, no un aban
 | **Comunicación con pacientes complejos** | Data storytelling y comunicación técnica | Capacidad de explicar conceptos complejos de forma clara |
 | **Trabajo bajo presión** | Resolución de problemas en producción | Experiencia en situaciones de alta demanda y responsabilidad |
 
-### 🎓 Profesor Universitario → 🚀 Engineer & Mentor
+### 🎓 Profesor Universitario → 🚀 Software Engineer & Technical Communicator
 
 | Mi Rol como Docente | Transferencia a Tech | 🎯 Beneficio |
 |-------------------|-------------------|------------|
 | **Diseño de currículo** | Arquitectura de sistemas y pipelines ML | Visión estructurada para descomponer problemas complejos |
 | **Enseñanza de biomecánica** | Documentación técnica y explicación de conceptos | Capacidad para documentar soluciones y crear contenido educativo |
 | **Evaluación y retroalimentación** | Code review y quality assurance | Ojo crítico para identificar mejoras y estándares de calidad |
-| **Mentoría de estudiantes** | Pair programming y onboarding de juniors | Habilidad para guiar, enseñar y transferir conocimiento |
-| **Metodología ágil (Scrum)** | Metodologías de desarrollo de software | Experiencia colaborativa aplicable a equipos multidisciplinarios |
-| **Investigación aplicada** | Machine Learning en problemas reales | Mi tesis publicada prueba capacidad de investigación rigurosa |
+| **Interacción con estudiantes diversos** | Aprendizaje colaborativo en equipos | Habilidad para trabajar con equipos multidisciplinarios, escuchar feedback |
+| **Metodología ágil (Scrum)** | Metodologías de desarrollo de software | Experiencia colaborativa en ambientes de trabajo organizado |
+| **Investigación aplicada** | Machine Learning en problemas reales | Mi tesis publicada prueba capacidad de investigación rigurosa y resolución de problemas |
 
 ### 🧠 Mindset que Traigo desde la Salud
 
@@ -79,26 +79,44 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-1F77B4?style=flat-square&logo=python&logoColor=white)
+![SpaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
 ### 🚀 MLOps & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### 🌐 Backend & Bases de Datos
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🎯 Metodologías
+### 🎨 Frontend & UI
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+### 🎯 Metodologías & Herramientas
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-4B8BBE?style=flat-square&logo=python&logoColor=white)
 
@@ -178,6 +196,7 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 |-------|------|
 | **LinkedIn** | [linkedin.com/in/daniel-araya-rocha](https://linkedin.com/in/daniel-araya-rocha/) |
 | **GitHub** | [github.com/D-Araya](https://github.com/D-Araya) |
+| **Portafolio Data Science** | [github.com/D-Araya/Data-Science-Portfolio/blob/main/README.md](https://github.com/D-Araya/Data-Science-Portfolio/blob/main/README.md) |
 | **Email** | [daniel.araya.rocha@gmail.com](mailto:daniel.araya.rocha@gmail.com) |
 <!-- | **Teléfono** | +56 9 56487926 |  -->
 
