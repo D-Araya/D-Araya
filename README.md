@@ -12,7 +12,7 @@ Soy un profesional multidisciplinario con **sólida formación académica** (Mag
 
 Actualmente busco **mi primera oportunidad laboral como Data Scientist, ML Engineer o DevOps**, donde pueda aplicar mis conocimientos en el ciclo de desarrollo de machine learning y despliegue de soluciones en producción.
 
-**Ubicación:** Llanquihue, Los Lagos, Chile 🇨🇱
+**Ubicación:** Remoto, Chile.
 
 ---
 
@@ -57,7 +57,7 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 - 🔬 Entiende **metodología científica** aplicable a validación de modelos
 - 👥 Tiene **experiencia liderando y enseñando** (no solo ejecutando)
 - 💡 Piensa en **impacto real** de las soluciones (mentalidad de salud)
-- 🚀 Es **altamente motivado** porque eligió esta carrera conscientemente
+- 🚀 Soy **altamente motivado** debido a que tengo mentalidad de crecimiento
 
 ---
 
@@ -65,6 +65,7 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 
 | 📚 Estudio | 🏫 Institución | 📅 Período | ⭐ Destacado |
 |-----------|---------------|----------|-----------|
+| **Bootcamp Arquitectura Cloud** | Talento Digital para Chile | Dic-Mar 2026 | ✅ Completado |
 | **Bootcamp Machine Learning** | Talento Digital para Chile | Jun-Oct 2025 | ✅ Completado |
 | **Bootcamp DevOps** | Talento Digital para Chile | Ago-Nov 2024 | ✅ Completado |
 | **Bootcamp Data Science** | Talento Digital para Chile | Abr-Jun 2023 | ✅ Completado |
@@ -122,16 +123,6 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 
 ---
 
-## 🎓 Áreas de Especialización
-
-- **Procesamiento de Lenguaje Natural (NLP):** Análisis de textos, modelos de clasificación, embeddings
-- **Deep Learning:** Redes neuronales avanzadas, computación científica
-- **MLOps:** Automatización de pipelines, despliegue en producción
-<!-- - **Series de Tiempo:** Forecasting, ARIMA, Prophet, análisis de tendencias
-- **Ingeniería de Datos:** ETL, pipelines robustos -->
-
----
-
 ## 🔬 Experiencia en Investigación
 
 ### 📖 Artículo Publicado en SIPAIM 2022
@@ -142,7 +133,6 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 
 ### 🎓 Tesis de Magíster
 **"Evaluación del Leap Motion Controller en la adquisición de movimientos basados en el Test de Espiral de Arquímedes"**
-- [Repositorio con código](https://github.com/D-Araya/Tesis-Magister-Ing-Biomedica)
 - Python, procesamiento de señales biomédicas, análisis biomecánico
 
 ### 🏥 Investigación en Imagenología Médica
@@ -183,8 +173,8 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 ## 🎁 Intereses Personales
   
 💚 **Conexión con la naturaleza** - Meditación, gratitud y cuidado ambiental  
-🏀 **Deporte & Bienestar** - Calistenia, musculación, estiramientos como práctica de mindfulness  
 👨‍👦 **Familia** - Padre de un hijo de 14 años y uno de 8 meses, disfruto de su desarrollo y aprendizaje
+<!-- - 🏀 **Deporte & Bienestar** - Calistenia, musculación, estiramientos como práctica de mindfulness   -->
 
 ---
 
