@@ -150,7 +150,7 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 ✅ **Colaboración efectiva** con experiencia en trabajo en equipo y metodologías ágiles  
 ✅ **Orientación a la mejora continua** - "nunca parar de aprender"  
 ✅ **Experiencia multidisciplinaria** que aporta perspectiva única a los desafíos  
-
+<!--
 ---
 
 ## 📊 GitHub Stats
@@ -159,7 +159,7 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Araya&layout=compact&langs_count=8&theme=vue&hide_border=true&bg_color=1a1a2e&title_color=16c784&text_color=eaeaea)](https://github.com/D-Araya)
 
----
+--- -->
 
 ## 🌱 Actualmente Aprendiendo
 
@@ -198,7 +198,7 @@ No soy solo otro Data Scientist junior. Soy alguien que:
 
 Estoy **activamente disponible para:**
 - 💼 Posiciones como **Data Scientist**, **ML Engineer** o **DevOps**
-- 🤝 Proyectos colaborativos en **Sistemas de Recomendación**
+<!--- 🤝 Proyectos colaborativos en **Sistemas de Recomendación**-->
 
 <!-- **NLP**  y **Series de Tiempo** -->
 <!-- - 📚 Mentorías y compartir conocimiento con la comunidad tech  -->
